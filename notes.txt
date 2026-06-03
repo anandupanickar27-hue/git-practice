@@ -1,4 +1,5 @@
 my first git project
 
-+ learning day 1Learning GitHub push and pull
++ learning day 1 from conflict-demo
+Learning GitHub push and pull
 This was added in feature-about branch
