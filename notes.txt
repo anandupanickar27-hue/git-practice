@@ -1,5 +1,5 @@
 my first git project
 
-+ learning day 1 from conflict-demo
++ learning day 1 from conflict-DEMO
 Learning GitHub push and pull
 This was added in feature-about branch
